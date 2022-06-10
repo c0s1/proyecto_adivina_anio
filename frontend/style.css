@@ -1,0 +1,33 @@
+#tittle{
+  height: 150px;
+  /*IMPORTANTE*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#mainScreen{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  padding: 10px;
+  box-shadow: 0px 2px 10px 2px gray ;
+}
+
+h1{
+    color: #00B0F0;
+    font-family: Georgia, Cambria, Times, "Arial";
+}
+
+
+  .button1#hover{
+            
+    background: rgb(182, 187, 182);
+    color:rgb(126, 126, 126);
+    box-shadow:none;
+    border-radius: 10px;
+
+  }
